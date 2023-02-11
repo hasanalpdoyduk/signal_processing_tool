@@ -2,7 +2,7 @@
 
 Audio signal processing tool that records the audio signal and can change its frequency and amplitude, invert and graph it. 
 
-<img src="https://github.com/hasanalpdoyduk/signal_processing_tool/blob/main/signal_processing_tool_photo.png" width="900" height="800" align="center" >
+<img src="https://github.com/hasanalpdoyduk/signal_processing_tool/blob/main/Documentation/signal_processing_tool_photo.png" width="900" height="800" align="center" >
 
 ## Usage
 
